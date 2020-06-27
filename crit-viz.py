@@ -4,8 +4,8 @@ import numpy as np
 from mpl_plot import *
 
 
-breakpoints  = np.array([  1, 41,  71, 86,  96, 106])
-coefficients = np.array([1.4, 2., 2.5, 3., 3.5,  4.])
+breakpoints  = np.array([  1, 46,  86, 116, 136, 151])
+coefficients = np.array([1.4, 2., 2.5,  3., 3.5,  4.])
 
 
 def equivalent_crit_damage(strength_raw):

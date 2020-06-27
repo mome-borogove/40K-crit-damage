@@ -9,6 +9,8 @@ This simple script visualizes what "critical strength" means in terms of critica
 The first plot the average critical damage you can expect with a given amount of critical strength on your gear.
 The second plot shows how much a single additional point of critical strength is assuming you already have a given amount.
 
+Note: As of v2.3.0, the critical damage per point of critical strength plot is a bit wonky. This isn't a bug, it's a result of inconsistently-sized intervals in the critical strength table. The good news is that you can basically ignore the hiccup in the middle: there's essentially no scenario in which it makes sense to change your gear for that little window.
+
 ![Equivalent critical damage](Equivalent_crit_damage.png)
 
 ![Critical damage per strength point](Critical_damage_per_strength.png)

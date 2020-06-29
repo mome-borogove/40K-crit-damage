@@ -17,38 +17,27 @@ def equivalent_crit_damage(strength_raw):
   # simplified "crit damage equivalent", which is just the expected critical
   # damage value.
   probability_offset = np.clip(breakpoints - strength - 1, 0, 100.)
-  #print(probability_offset)
-  #print('---')
   probability_offset_extended = np.concatenate(
     (probability_offset,
      np.broadcast_to(100., (probability_offset.shape[0],1))),
     axis=1)
-  #print(probability_offset_extended)
-  #print('---')
   probability_mass = np.diff(probability_offset_extended)/100.
-  #print(probability_mass)
-  #print('---')
   # Probability mass should always sum to one.
-  #print(np.sum(probability_mass, axis=1))
   assert(np.all((np.sum(probability_mass, axis=1)-1.0)<0.01))
 
   probability_weighted_crit_damage = probability_mass * coefficients
-  #print(probability_weighted_crit_damage)
-  #print('---')
 
   return np.sum(probability_weighted_crit_damage, axis=1)
 
-#print(equivalent_crit_damage(np.arange(0,120,10)))
-
-
 def plot_it():
-  xs = np.arange(0,120) # caps at 105, but let's visually see the plateau
+  max_x = max(breakpoints)+9 # let's visually see the plateau
+  xs = np.arange(0,max_x)
   ys = equivalent_crit_damage(xs)*100
   (fig,ax) = plt.subplots()
   ax.plot(xs, ys)
   ax.grid(True)
   ax.set_xlabel('Critical Strength')
-  ax.set_xlim(0,120)
+  ax.set_xlim(0,max_x)
   ax.set_ylabel('Average Equivalent Critical Damage %')
   fig.tight_layout()
   fig.savefig('Equivalent_crit_damage.png')
@@ -58,7 +47,7 @@ def plot_it():
   ax.plot(xs[:-1], zs)
   ax.grid(True)
   ax.set_xlabel('Critical Strength')
-  ax.set_xlim(0,120)
+  ax.set_xlim(0,max_x)
   ax.set_ylabel('Critical Damage % per Point of Critical Strength')
   fig.tight_layout()
   fig.savefig('Critical_damage_per_strength.png')

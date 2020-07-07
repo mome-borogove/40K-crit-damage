@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="22 220 1042 364" width="1042" height="364">
+  <defs>
+    <font-face font-family="Open Sans Light" font-size="16" panose-1="2 11 3 6 3 5 4 2 2 4" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="0" x-height="530.7617" cap-height="713.8672" ascent="1068.8477" descent="-292.96875" font-weight="400">
+      <font-face-src>
+        <font-face-name name="OpenSans-Light"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Arrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#424242">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2020-07-07 04:11:41 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 183.25 394.18537 L 251.25 432 L 183.25 469.81463 L 115.25 432 Z" fill="white"/>
+        <path d="M 183.25 394.18537 L 251.25 432 L 183.25 469.81463 L 115.25 432 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(138.61 420.2437)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="1.7773438" y="17">Did you crit?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="222.5" y="509" width="102.5" height="72" fill="white"/>
+        <rect x="222.5" y="509" width="102.5" height="72" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(227.5 512)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="11.894531" y="17">Deal your </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="20.621094" y="39">normal </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="17.375" y="61">damage</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="221.75" y="298" width="102.5" height="57" fill="white"/>
+        <rect x="221.75" y="298" width="102.5" height="57" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(226.75 315.5)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="41.94531" y="17">X</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="360.75" y="298" width="102.5" height="57" fill="white"/>
+        <rect x="360.75" y="298" width="102.5" height="57" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(365.75 304.5)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="10.164062" y="17">X + critical </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="16.039062" y="39">strength</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <rect x="727" y="388.92857" width="234.5" height="57" fill="white"/>
+        <rect x="727" y="388.92857" width="234.5" height="57" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(732 395.42857)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="44.671875" y="17">(normal damage) × </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="20.035156" y="39">(Y + critical damage value)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <rect x="688.75" y="298" width="102.5" height="57" fill="white"/>
+        <rect x="688.75" y="298" width="102.5" height="57" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(693.75 304.5)" fill="#ff2600">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="10.246094" y="17">Y + critical </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="17.375" y="39">damage</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <path d="M 183.25 469.81463 L 183.25 545 L 209.6 545" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_27">
+        <line x1="324.25" y1="326.5" x2="347.85" y2="326.5" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_28">
+        <path d="M 463.25 326.5 L 530 326.5 L 530 338.1" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_31">
+        <path d="M 791.25 326.5 L 844.25 326.5 L 844.25 376.02857" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(154.32129 465.2143)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="0" y="17">No</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(152.43848 376.7857)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="0" y="17">Yes</tspan>
+        </text>
+      </g>
+      <g id="Line_34">
+        <path d="M 183.25 394.18537 L 183.25 326.5 L 208.85 326.5" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_36">
+        <text transform="translate(210.75 226)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="17.984375" y="17">Game rolls a </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="3.5742188" y="39">random number </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="40.734375" y="61">1–100</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <text transform="translate(349 226)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="23.539062" y="17">Add critical </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="11.882812" y="39">strength value </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="8.2578125" y="61">from gear/skills</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <text transform="translate(468 489.5)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="6.6171875" y="17">Game looks up the result in </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="14.425781" y="39">the critical strength table.</tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="16.820312" y="61">This gives you your initial </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="5.527344" y="83">critical damage multiplier, </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" y="83">Y</tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" y="83">.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="487" y="373.5" width="86" height="22.5" fill="white"/>
+        <rect x="487" y="373.5" width="86" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(492 373.75)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="17.160156" y="17">46-85</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="487" y="396" width="86" height="22.5" fill="white"/>
+        <rect x="487" y="396" width="86" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(492 396.25)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="12.59375" y="17">86-115</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="487" y="418.5" width="86" height="22.5" fill="white"/>
+        <rect x="487" y="418.5" width="86" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(492 418.75)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="8.027344" y="17">116-135</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="487" y="441" width="86" height="22.5" fill="white"/>
+        <rect x="487" y="441" width="86" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(492 441.25)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="8.027344" y="17">136-150</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="487" y="463.5" width="86" height="22.5" fill="white"/>
+        <rect x="487" y="463.5" width="86" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(492 463.75)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="19.734375" y="17">151+</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <rect x="573" y="351" width="92" height="22.5" fill="white"/>
+        <rect x="573" y="351" width="92" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(578 351.25)" fill="#ff2600">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="20.84375" y="17">140%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <rect x="573" y="373.5" width="92" height="22.5" fill="white"/>
+        <rect x="573" y="373.5" width="92" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(578 373.75)" fill="#ff2600">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="20.84375" y="17">200%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <rect x="573" y="396" width="92" height="22.5" fill="white"/>
+        <rect x="573" y="396" width="92" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(578 396.25)" fill="#ff2600">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="20.84375" y="17">250%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <rect x="573" y="418.5" width="92" height="22.5" fill="white"/>
+        <rect x="573" y="418.5" width="92" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(578 418.75)" fill="#ff2600">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="20.84375" y="17">300%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <rect x="573" y="441" width="92" height="22.5" fill="white"/>
+        <rect x="573" y="441" width="92" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(578 441.25)" fill="#ff2600">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="20.84375" y="17">350%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="487" y="351" width="86" height="22.5" fill="white"/>
+        <rect x="487" y="351" width="86" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(492 351.25)" fill="#0096ff">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#0096ff" x="21.726562" y="17">1-45</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <rect x="573" y="463.5" width="92" height="22.5" fill="white"/>
+        <rect x="573" y="463.5" width="92" height="22.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(578 463.75)" fill="#ff2600">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="#ff2600" x="20.84375" y="17">400%</tspan>
+        </text>
+      </g>
+      <g id="Line_44">
+        <path d="M 619 351 L 619 326.5 L 675.85 326.5" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_47">
+        <rect x="793" y="509" width="102.5" height="72" fill="white"/>
+        <rect x="793" y="509" width="102.5" height="72" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <text transform="translate(798 512)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="15.152344" y="17">Deal this </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="10.640625" y="39">multiplied </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="17.375" y="61">damage</tspan>
+        </text>
+      </g>
+      <g id="Line_48">
+        <line x1="844.25" y1="445.92857" x2="844.25" y2="496.1" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_50">
+        <text transform="translate(677 226)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="23.539062" y="17">Add critical </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="13.21875" y="39">damage value </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="8.2578125" y="61">from gear/skills</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <text transform="translate(966.5 385.5)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="7.578125" y="17">Multiply by </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="2.3515625" y="39">your normal </tspan>
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="17.375" y="61">damage</tspan>
+        </text>
+      </g>
+      <g id="Graphic_52">
+        <text transform="translate(22 421)" fill="black">
+          <tspan font-family="Open Sans Light" font-size="16" font-weight="400" fill="black" x="4.9990234" y="17">Attack!</tspan>
+        </text>
+      </g>
+      <g id="Line_53">
+        <line x1="79.98242" y1="432" x2="102.35" y2="432" marker-end="url(#Arrow_Marker)" stroke="#424242" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

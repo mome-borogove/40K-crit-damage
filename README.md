@@ -1,4 +1,4 @@
-# How Criticals Work in 40K: Inquisitor
+# Criticals in 40K: Inquisitor
 
 Critical damage in Warhammer 40K: Inquisitor - Martyr is a bit different than most systems.
 Instead of a straight multiplier, there's an extra level of indirection.
@@ -6,22 +6,23 @@ While this has advantages (crits have a much wider range which can "feel" more e
 
 Let's start with making sure we're all on the same page. Here's how criticals work in 40K: Inquisitor:
 
-![How Crits Work](how-crits-work.svg)
+![How Crits Work](how-crits-work.jpg)
 
 When an attack crits, the game internally rolls a random value from 1 to 100, adds your **critical strength** score, then looks up the value in a table.
 It takes the result as your initial critical multiplier, then adds any **critical damage** from your gear and skills, and uses that as the final multiplier for your normal attack damage.
 
 ## Critical strength versus critical damage
 
-This simple script visualizes what "critical strength" means in terms of critical damage.
-In other words, it derives the average multiplier over all possible random numbers the game could roll (1&ndash;100) and then translates that into the equivalent amount of critical damage you would need to get the same outcome.
+The obvious next question is how these two stats compare with each other.
+To answer that, we'll use a simple script that visualizes what critical strength means in terms of critical damage.
+In other words, we're going to average the total critical multiplier over all possible random numbers the game could roll (1&ndash;100) and then translate that into the equivalent amount of critical damage you would need to get the same outcome.
 Note: as described above, critical strength and critical damage work together to increase your damage, so this experiment is really about choosing between the two when there is a direct conflict.
 For instance, an artifact-rarity (purple) signum can have a critical strength or critical damage primary enchant, *but not both*.
 You have to choose one or the other.
 These plots help to visualize that tradeoff.
 To reiterate, though, it is always good to get both critical strength and critical damage when possible.
 
-The first plot shows the average critical damage you can expect with a given amount of critical strength on your gear.
+The first plot shows the average equivalent critical damage you can expect with a given amount of critical strength on your gear.
 
 ![Equivalent critical damage](Equivalent_crit_damage.png)
 

@@ -10,7 +10,7 @@ While this has advantages (crits have a much wider range which can "feel" more e
 
 Let's start with making sure we're all on the same page. Here's how criticals work in 40K: Inquisitor:
 
-![How Crits Work](how-crits-work.svg)
+![How Crits Work](how-crits-work.jpg)
 
 When an attack crits, the game internally rolls a random value from 1 to 100, adds your **critical strength** score, then looks up the value in a table.
 It takes the result as your initial critical multiplier, then adds any **critical damage** from your gear and skills, and uses that as the final multiplier for your normal attack damage.
